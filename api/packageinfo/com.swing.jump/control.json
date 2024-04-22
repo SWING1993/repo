@@ -1,0 +1,1 @@
+{ "Package": "com.swing.jump", "Name": "JumpNoAds-Rootless", "Version": "0.0.2-24", "Architecture": "iphoneos-arm64", "Description": "JumpApp去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

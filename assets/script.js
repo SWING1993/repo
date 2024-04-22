@@ -20,7 +20,8 @@ function handleTweakData(data) {
 
 			// Tweak icon
 			const image = document.createElement('img');
-			image.src = `${packageinfo}${packageId}/icon.png`;
+// 			image.src = `${packageinfo}${packageId}/icon.png`;
+			image.src = `https://repo.abox.plus/assets/deb.png`;
 			image.className = 'tweak-row-img';
 			tweakRow.appendChild(image);
 

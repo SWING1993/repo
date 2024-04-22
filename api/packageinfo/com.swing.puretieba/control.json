@@ -1,0 +1,1 @@
+{ "Package": "com.swing.puretieba", "Name": "百度贴吧去广告-Rootless", "Version": "0.0.1-16", "Architecture": "iphoneos-arm64", "Description": "百度贴吧去广告插件！", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }

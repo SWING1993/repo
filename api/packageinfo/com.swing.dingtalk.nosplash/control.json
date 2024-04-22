@@ -1,0 +1,1 @@
+{ "Package": "com.swing.dingtalk.nosplash", "Name": "钉钉助手-Rootless", "Version": "0.0.2", "Architecture": "iphoneos-arm64", "Description": "跳过启动广告，添加微信（Bi8_aBo）解锁测试功能。", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }

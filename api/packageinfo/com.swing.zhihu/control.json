@@ -1,0 +1,1 @@
+{ "Package": "com.swing.zhihu", "Name": "知乎去广告-Rootless", "Version": "0.0.5-59", "Architecture": "iphoneos-arm64", "Description": "知乎去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }

@@ -1,0 +1,1 @@
+{ "Package": "com.bi8abo.dingtalk", "Name": "钉钉助手v3-Rootless", "Version": "1.0.3", "Architecture": "iphoneos-arm64", "Description": "支持位置、WIFI、拍照打卡！问题反馈微信：Bi8_aBo", "Maintainer": "Bi8_aBo", "Author": "Bi8_aBo", "Section": "Tweaks", "Depends": "mobilesubstrate" }

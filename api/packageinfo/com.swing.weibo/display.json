@@ -1,0 +1,1 @@
+{ "contact": { "wechat": "420408858", "email": "swing1993@qq.com" }, "information": { "description": "同时支持微博和微博轻享版(原国际版)：删除启动页、信息流、视频流、评论列表、发现等页面的广告，新增支持修改设备型号。" }, "changelog": [ { "date": "2024-04-22", "version_number": "1.0.0", "changes": "Initial release" } ] }

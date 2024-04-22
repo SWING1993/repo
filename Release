@@ -1,0 +1,8 @@
+Origin: ABox源
+Label: ABox源
+Suite: stable
+Version: 1.0
+Codename: abox
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: ABox软件源

@@ -1,0 +1,1 @@
+{ "Package": "com.swing.weibo", "Name": "微博去广告-Rootless", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "同时支持微博和微博轻享版(原国际版)：删除启动页、信息流、视频流、评论列表、发现等页面的广告，新增支持修改设备型号。", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }

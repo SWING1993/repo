@@ -11,7 +11,8 @@ function loadData() {
 }
 
 function setIcon() {
-	document.getElementById('package-icon').src = `${packageInfo}${packageId}/icon.png`;
+// 	document.getElementById('package-icon').src = `${packageInfo}${packageId}/icon.png'`;
+    document.getElementById('package-icon').src = `https://repo.abox.plus/assets/deb.png`;
 }
 
 function fetchInfo() {
