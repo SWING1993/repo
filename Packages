@@ -379,18 +379,18 @@ Name: 微博去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
 
 Package: com.swing.weibolite
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.weibolite_1.0.0_iphoneos-arm64.deb
-Size: 11330
-MD5sum: f0b870192f9bb5332579819519f017ea
-SHA1: f7bc11a8715bcc66af6a137a2fa7245a9df4b753
-SHA256: bf119714e3b4e26985c072ed9da002d4ad3f8c2691d76455f6bcee7cf5c8853d
+Filename: debs/com.swing.weibolite_1.0.1_iphoneos-arm64.deb
+Size: 11310
+MD5sum: 07c8fb0fc4b0a489cbeaa8b7c7294436
+SHA1: 113ee50bf15e6225e021c7b3e56e82965272bf1c
+SHA256: 97273b63c7f400bf316d2efbb1a09f9af700cd162ef1316951c7a034e401b6b6
 Section: Tweaks
-Description: 微博轻享版去广告去广告插件。
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
@@ -398,18 +398,18 @@ Name: 微博轻享版去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
 
 Package: com.swing.weibolite
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: SWING
 Installed-Size: 140
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.weibolite_1.0.0_iphoneos-arm.deb
-Size: 10992
-MD5sum: 32574825fd2459fea697f298561d0ae6
-SHA1: ae86d8e9013cc6c7080bf125157e2dd4e0a44d5b
-SHA256: 9a06952dc9746ae92f0e41ac2cdc05a50924b76ffad19310fd2147d5fa309846
+Filename: debs/com.swing.weibolite_1.0.1_iphoneos-arm.deb
+Size: 11032
+MD5sum: bd6fb4ca85d943618291994f7e910c5f
+SHA1: ec7d283c9aacefdf4d88356bfa9ba44d100847e9
+SHA256: 14e5b2772525adf3035651e3866e4cb86b8d6571b5bfc87d821d779ee967b5eb
 Section: Tweaks
-Description: 微博轻享版去广告去广告插件。
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
