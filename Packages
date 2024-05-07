@@ -74,6 +74,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
 Name: 豆瓣净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
 
+Package: com.bi8abo.dingtalk
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Bi8_aBo
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.bi8abo.dingtalk_1.1.0_iphoneos-arm.deb
+Size: 60992
+MD5sum: d3b362931925d79d879a27591f106d39
+SHA1: 198c2f3848796fa0331b35b2c6b48c1ccd0b87ae
+SHA256: cfc0fccc0df82f452993e5b9ee6ff29c33472349d1b70cf0a329ac9554b734c4
+Section: Tweaks
+Description: 支持位置、WIFI、拍照打卡！（未越狱机器请安装ipa：http://xz.51y.club/dingtalk.ipa ） 问题反馈微信：Bi8_aBo
+Author: Bi8_aBo
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.bi8abo.dingtalk
+Icon: https://repo.abox.plus/api/packageinfo/com.bi8abo.dingtalk/icon.png
+Name: 钉钉助手v3-Rootless
+Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
+
+Package: com.bi8abo.dingtalk
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Bi8_aBo
+Installed-Size: 372
+Depends: mobilesubstrate
+Filename: debs/com.bi8abo.dingtalk_1.1.0_iphoneos-arm64.deb
+Size: 60842
+MD5sum: be2748ce8656c58f1a522e1d25e53152
+SHA1: 12ee88c59538e2ec9637a4c30dd9a44c81c618a8
+SHA256: 7d1294589e9e78939aa72ae4896bfcde7be15d80f139830b74de526b83ca2b65
+Section: Tweaks
+Description: 支持位置、WIFI、拍照打卡！（未越狱机器请安装ipa：http://xz.51y.club/dingtalk.ipa ） 问题反馈微信：Bi8_aBo
+Author: Bi8_aBo
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.bi8abo.dingtalk
+Icon: https://repo.abox.plus/api/packageinfo/com.bi8abo.dingtalk/icon.png
+Name: 钉钉助手v3-Rootless
+Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
+
 Package: com.swing.bilibili
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -265,23 +303,42 @@ Name: 米家NoAds-Rootless
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.swing.mihome.json
 
 Package: com.swing.puretieba
-Version: 0.0.1-16
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: debs/com.swing.puretieba_1.0.0_iphoneos-arm.deb
+Size: 12168
+MD5sum: ac555ad2cdc99738a541d9196edef05f
+SHA1: fd76091d21554e88c40877b0f50f663ba06d0419
+SHA256: d47daccca13acd82e2d407d52922e0ab11878990cc99c84d10ea1cf2b29a36a6
+Section: Tweaks
+Description: 百度贴吧去广告插件！
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
+
+Package: com.swing.puretieba
+Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate
-Filename: debs/com.swing.puretieba_0.0.1-16_iphoneos-arm64.deb
-Size: 5676
-MD5sum: c7e54bdbee0a29b267a87aeaea272cf8
-SHA1: baa8f337ddb84c90bc38afb600a24b8ffc3a419e
-SHA256: 7e7479f3ef7fe17e7712bd5a6eb15fc0c7de1c647ad369672ceff809347ce914
+Filename: debs/com.swing.puretieba_1.0.0_iphoneos-arm64.deb
+Size: 8094
+MD5sum: ab36f474bf634f5bd551dfcff54922a9
+SHA1: b83b138278ff6249fd33d67560a4f09e9131803c
+SHA256: 2f67d375fdd782a0847d8dc241b1a7fa12f1743ff5ac4b629dc50e754270f2b1
 Section: Tweaks
 Description: 百度贴吧去广告插件！
 Author: SWING
-Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.swing.puretieba
-Icon: https://p2kdev.github.io/repo/api/packageinfo/com.swing.puretieba/icon.png
-Name: 百度贴吧去广告-Rootless
-Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.swing.puretieba.json
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.puretieba
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
+Name: 百度贴吧去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
 
 Package: com.swing.weibo
 Version: 1.2.1

@@ -1,1 +1,1 @@
-{ "Package": "com.swing.weibo", "Name": "微博去广告", "Version": "1.2.1", "Architecture": "iphoneos-arm", "Description": "删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
+{ "Package": "com.swing.weibo", "Name": "微博去广告", "Version": "1.2.1", "Architecture": "iphoneos-arm64", "Description": "删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
