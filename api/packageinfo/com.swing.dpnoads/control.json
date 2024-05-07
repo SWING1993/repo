@@ -1,0 +1,1 @@
+{ "Package": "com.swing.dpnoads", "Name": "百度网盘NoAds", "Version": "1.1.0", "Architecture": "iphoneos-arm64", "Description": "百度网盘去广告，优化文件传输页面使用系统App来打开文件!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

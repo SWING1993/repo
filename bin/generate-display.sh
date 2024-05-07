@@ -19,7 +19,7 @@ description=$(grep -i "^Description:" $input_file | cut -d " " -f 2-)
 json_object=$(cat << EOF
 {
     "contact": {
-        "wechat": "420408858",
+        "wechat": "JUMP293410176",
         "email": "swing1993@qq.com"
     },
     "information": {

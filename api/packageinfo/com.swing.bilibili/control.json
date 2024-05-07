@@ -1,0 +1,1 @@
+{ "Package": "com.swing.bilibili", "Name": "哔哩哔哩NoAds", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "哔哩哔哩国际版去广告，解锁4K画质!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
