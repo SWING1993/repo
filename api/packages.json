@@ -1,9 +1,9 @@
 {
   "package_ids": [
+    "com.swing.weibo",
     "com.swing.eleme",
     "co.swing.chick",
     "com.swing.bilibili",
-    "com.swing.weibo",
     "com.swing.weibolite",
     "com.abox.puredouban",
     "com.swing.zhihu",
