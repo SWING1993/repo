@@ -169,6 +169,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.dpnoads/icon.png
 Name: 百度网盘NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
 
+Package: com.swing.eleme
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.eleme_1.0.0_iphoneos-arm64.deb
+Size: 6254
+MD5sum: 9905866050431fa503432e4b45da81e3
+SHA1: 41222b79993cd93a5ff51147cfc38cf833f6f680
+SHA256: 5419c37b1f11bcadbdc0d2ccfaf4dc751b6343d433e264bb088607d938f80b2c
+Section: Tweaks
+Description: 饿了么去广告，感谢AE86的奶茶!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.eleme_1.0.0_iphoneos-arm.deb
+Size: 5990
+MD5sum: 2c349ca02d96b9dc95cd8be679415f86
+SHA1: 883227891da42adb39639cf3763ce22c402b96da
+SHA256: ddfc97bf86700560a25f3e43223cdfc46d0c361cda9c6723467adac320e3823a
+Section: Tweaks
+Description: 饿了么去广告，感谢AE86的奶茶!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
 Package: com.swing.gamesky
 Version: 1.0.0
 Architecture: iphoneos-arm64
