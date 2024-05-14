@@ -1,1 +1,1 @@
-{ "Package": "com.swing.eleme", "Name": "饿了么去广告", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "饿了么去广告，感谢AE86的奶茶!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "com.swing.eleme", "Name": "饿了么去广告", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "饿了么去广告，新增精简全能超市!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

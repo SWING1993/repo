@@ -1,12 +1,12 @@
 {
   "package_ids": [
+    "com.swing.eleme",
+    "com.swing.bilibili",
     "com.swing.weibolite",
     "com.bi8abo.dingtalk",
     "com.swing.puretieba",
     "com.swing.weibo",
-    "com.swing.eleme",
     "co.swing.chick",
-    "com.swing.bilibili",
     "com.abox.puredouban",
     "com.swing.zhihu",
     "com.swing.dpnoads",

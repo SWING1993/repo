@@ -113,18 +113,18 @@ Name: 钉钉助手v3-Rootless
 Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
 
 Package: com.swing.bilibili
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 168
+Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.0.0_iphoneos-arm64.deb
-Size: 7680
-MD5sum: bdb0f3032ede55270c3212b1b04d6c36
-SHA1: 41f6fbafe1229220cd5a83d146acc3cd2d2b4008
-SHA256: 5a52c295bddd35fbfd996a724896cd53dd7ce3f9a7c4d9c120fde9474c1ad4f8
+Filename: debs/com.swing.bilibili_1.1.0_iphoneos-arm64.deb
+Size: 15132
+MD5sum: 5e2c50aa3a9d174eb396b4839affe6f9
+SHA1: 9d5238a519d2bfe816219eda4e2381e052d20ff2
+SHA256: 1262c89fb90bbdb80e54c685f227542743edafbd1ad0ebb6c24a0a648cb9151f
 Section: Tweaks
-Description: 哔哩哔哩国际版去广告，解锁4K画质!
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1。
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
@@ -132,18 +132,18 @@ Name: 哔哩哔哩NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
 
 Package: com.swing.bilibili
-Version: 1.0.0
+Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 136
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.0.0_iphoneos-arm.deb
-Size: 7408
-MD5sum: 1b1f71c7e584c174d3a6e795484be55e
-SHA1: 8d4d38ff8aea8671e78648d7e9b2dda06051d385
-SHA256: 5c1c7b51e1cefaf7a5aca78b9a4f44bb5c1515e1ea9217197a504a68ee65db08
+Filename: debs/com.swing.bilibili_1.1.0_iphoneos-arm.deb
+Size: 14966
+MD5sum: 01ccc9ff2bbbc0ee1c68b7bf70e4f5c5
+SHA1: ee8df679d688bc3ec02bec0a08daf1a73d0e2267
+SHA256: fa0bf84e1beafecacb9469cf31aaf6e0b235ee724ddd5c293c338854503fd5ac
 Section: Tweaks
-Description: 哔哩哔哩国际版去广告，解锁4K画质!
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1。
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
@@ -208,18 +208,18 @@ Name: 百度网盘NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
 
 Package: com.swing.eleme
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Version: 1.0.1
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 168
+Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.0_iphoneos-arm64.deb
-Size: 6254
-MD5sum: 9905866050431fa503432e4b45da81e3
-SHA1: 41222b79993cd93a5ff51147cfc38cf833f6f680
-SHA256: 5419c37b1f11bcadbdc0d2ccfaf4dc751b6343d433e264bb088607d938f80b2c
+Filename: debs/com.swing.eleme_1.0.1_iphoneos-arm.deb
+Size: 6372
+MD5sum: 9a003f9ec59c1497ce057f2e90c82d42
+SHA1: 20aeb869af909f0a422a5bbf949a1d362e5f43f4
+SHA256: f8f5278e19e5588d2510bec5464f96e336729cefd3f8f9c9727cf4c1b28f3fe0
 Section: Tweaks
-Description: 饿了么去广告，感谢AE86的奶茶!
+Description: 饿了么去广告，新增精简全能超市!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
@@ -227,18 +227,18 @@ Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
 Package: com.swing.eleme
-Version: 1.0.0
-Architecture: iphoneos-arm
+Version: 1.0.1
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 136
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.0_iphoneos-arm.deb
-Size: 5990
-MD5sum: 2c349ca02d96b9dc95cd8be679415f86
-SHA1: 883227891da42adb39639cf3763ce22c402b96da
-SHA256: ddfc97bf86700560a25f3e43223cdfc46d0c361cda9c6723467adac320e3823a
+Filename: debs/com.swing.eleme_1.0.1_iphoneos-arm64.deb
+Size: 6632
+MD5sum: 914accd4d68ea9b0bfff185a8052ab4c
+SHA1: 92e9ffb7507c645d0568c2271fba511bb73ec350
+SHA256: fd651b6bd4e417644c649a0ab155593e87618c8f50ce3e334e0fd0230b24411a
 Section: Tweaks
-Description: 饿了么去广告，感谢AE86的奶茶!
+Description: 饿了么去广告，新增精简全能超市!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
