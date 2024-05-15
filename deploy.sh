@@ -10,3 +10,7 @@ rm -rf /www/wwwroot/repo.abox.plus/repo/api/*
 
 # Package
 ./bin/packages.sh
+
+# push to github
+./bin/github.sh
+

@@ -113,18 +113,18 @@ Name: 钉钉助手v3-Rootless
 Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
 
 Package: com.swing.bilibili
-Version: 1.1.0
-Architecture: iphoneos-arm64
+Version: 1.1.2
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 200
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.1.0_iphoneos-arm64.deb
-Size: 15132
-MD5sum: 5e2c50aa3a9d174eb396b4839affe6f9
-SHA1: 9d5238a519d2bfe816219eda4e2381e052d20ff2
-SHA256: 1262c89fb90bbdb80e54c685f227542743edafbd1ad0ebb6c24a0a648cb9151f
+Filename: debs/com.swing.bilibili_1.1.2_iphoneos-arm.deb
+Size: 14276
+MD5sum: 8fa7c2e3c661722506aee0d7355e189f
+SHA1: 5488f1b34993b5eaf08a0f7d9d93f150d5c86c09
+SHA256: 28cecadf08fba954287d1efa1b071e73088b53602ace052dd943f789faeb4070
 Section: Tweaks
-Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1。
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
@@ -132,18 +132,18 @@ Name: 哔哩哔哩NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
 
 Package: com.swing.bilibili
-Version: 1.1.0
-Architecture: iphoneos-arm
+Version: 1.1.2
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 168
+Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.1.0_iphoneos-arm.deb
-Size: 14966
-MD5sum: 01ccc9ff2bbbc0ee1c68b7bf70e4f5c5
-SHA1: ee8df679d688bc3ec02bec0a08daf1a73d0e2267
-SHA256: fa0bf84e1beafecacb9469cf31aaf6e0b235ee724ddd5c293c338854503fd5ac
+Filename: debs/com.swing.bilibili_1.1.2_iphoneos-arm64.deb
+Size: 14574
+MD5sum: 8d702292835231982dc3f219e35ee977
+SHA1: 0a4654ef43ad22680e4c60ced4b6d5c5bae17b30
+SHA256: e681ce92dca1e3d8ebfa41cc4e44c431c91b40df51937054f309998e4257eb4e
 Section: Tweaks
-Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1。
+Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
