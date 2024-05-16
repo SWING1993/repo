@@ -340,6 +340,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.puretieba/icon.png
 Name: 百度贴吧去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.puretieba.json
 
+Package: com.swing.qqmail
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.qqmail_1.0.0_iphoneos-arm64.deb
+Size: 5202
+MD5sum: 0f5d651d6b5450c25dcb20acc71f6d6a
+SHA1: b703c2fd7bdf630dacc7bc471dc19e59bc45b2c7
+SHA256: 31ec30ea447a8e79956935b1626c8dad5aaa5d3e2004cb88e9e97dc0b8e20052
+Section: Tweaks
+Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.qqmail
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.qqmail/icon.png
+Name: QQ邮箱去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.qqmail.json
+
+Package: com.swing.qqmail
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.qqmail_1.0.0_iphoneos-arm.deb
+Size: 5132
+MD5sum: 9f592ad48708bfe40d7e31315b50df4d
+SHA1: 6c56f648cf0a1561fb12a4c828a2dcebf89a80cc
+SHA256: 032f437e56b78b74735026dcdb1f387760b713a7329e7ec081f81cdb6a7864a2
+Section: Tweaks
+Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.qqmail
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.qqmail/icon.png
+Name: QQ邮箱去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.qqmail.json
+
 Package: com.swing.weibo
 Version: 1.2.1
 Architecture: iphoneos-arm
