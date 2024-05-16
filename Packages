@@ -208,18 +208,18 @@ Name: 百度网盘NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
 
 Package: com.swing.eleme
-Version: 1.0.1
-Architecture: iphoneos-arm
+Version: 1.0.2
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 136
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.1_iphoneos-arm.deb
-Size: 6372
-MD5sum: 9a003f9ec59c1497ce057f2e90c82d42
-SHA1: 20aeb869af909f0a422a5bbf949a1d362e5f43f4
-SHA256: f8f5278e19e5588d2510bec5464f96e336729cefd3f8f9c9727cf4c1b28f3fe0
+Filename: debs/com.swing.eleme_1.0.2_iphoneos-arm64.deb
+Size: 10662
+MD5sum: 25835810414072b7ed519fc5b18cca14
+SHA1: 69e672c2fae7c4879373af66395514627eb9da3e
+SHA256: b798135965cf55683ecd7314b0db4a28ffade9237e5a5e9fc7f4c3d787b48de4
 Section: Tweaks
-Description: 饿了么去广告，新增精简全能超市!
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
@@ -227,18 +227,18 @@ Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
 Package: com.swing.eleme
-Version: 1.0.1
-Architecture: iphoneos-arm64
+Version: 1.0.2
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 168
+Installed-Size: 136
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.1_iphoneos-arm64.deb
-Size: 6632
-MD5sum: 914accd4d68ea9b0bfff185a8052ab4c
-SHA1: 92e9ffb7507c645d0568c2271fba511bb73ec350
-SHA256: fd651b6bd4e417644c649a0ab155593e87618c8f50ce3e334e0fd0230b24411a
+Filename: debs/com.swing.eleme_1.0.2_iphoneos-arm.deb
+Size: 10348
+MD5sum: 9aa1401bbed3cdbee17fd75b876c4e1c
+SHA1: f2d415b1379e974f5896cd1d833ab89510b514b6
+SHA256: f312d467ce528f3ba7b7a7321282168994b1b37e195c68ec0404abef1bd992e7
 Section: Tweaks
-Description: 饿了么去广告，新增精简全能超市!
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
