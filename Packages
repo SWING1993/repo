@@ -347,10 +347,10 @@ Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.qqmail_1.0.0_iphoneos-arm64.deb
-Size: 5202
-MD5sum: 0f5d651d6b5450c25dcb20acc71f6d6a
-SHA1: b703c2fd7bdf630dacc7bc471dc19e59bc45b2c7
-SHA256: 31ec30ea447a8e79956935b1626c8dad5aaa5d3e2004cb88e9e97dc0b8e20052
+Size: 5510
+MD5sum: 312b6066291a3b437ec3ac5778215b66
+SHA1: 2ba3a52e4618ef577e64de33230345f47302fca2
+SHA256: 7fa76abb24958796415f025f4579bcc60a6870adc85e525b6406540e7acce145
 Section: Tweaks
 Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
 Author: SWING
@@ -366,10 +366,10 @@ Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.qqmail_1.0.0_iphoneos-arm.deb
-Size: 5132
-MD5sum: 9f592ad48708bfe40d7e31315b50df4d
-SHA1: 6c56f648cf0a1561fb12a4c828a2dcebf89a80cc
-SHA256: 032f437e56b78b74735026dcdb1f387760b713a7329e7ec081f81cdb6a7864a2
+Size: 5440
+MD5sum: 94c45e488ba7117876e4ee7ddebc15d1
+SHA1: 5f59d23a33f70e845568bb62dddd99fe26bcdcee
+SHA256: 95a7510fb16acbf06c97c43baa0ce3ffc7cb7188d07720d6e470faaf445686ae
 Section: Tweaks
 Description: QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!
 Author: SWING
