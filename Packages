@@ -246,18 +246,18 @@ Name: 百度网盘NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.dpnoads.json
 
 Package: com.swing.eleme
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.2_iphoneos-arm64.deb
-Size: 10662
-MD5sum: 25835810414072b7ed519fc5b18cca14
-SHA1: 69e672c2fae7c4879373af66395514627eb9da3e
-SHA256: b798135965cf55683ecd7314b0db4a28ffade9237e5a5e9fc7f4c3d787b48de4
+Filename: debs/com.swing.eleme_1.0.3_iphoneos-arm64.deb
+Size: 12492
+MD5sum: af29adb61529a398e118ca15cc66c2d7
+SHA1: 381bb579df5cd121651405387464ac5996190f83
+SHA256: cd8e3479aff3d1f03dc211bcf68399f1ac3afaef4747dacce0ec38ec1d615232
 Section: Tweaks
-Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
@@ -265,18 +265,18 @@ Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
 Package: com.swing.eleme
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 136
+Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.eleme_1.0.2_iphoneos-arm.deb
-Size: 10348
-MD5sum: 9aa1401bbed3cdbee17fd75b876c4e1c
-SHA1: f2d415b1379e974f5896cd1d833ab89510b514b6
-SHA256: f312d467ce528f3ba7b7a7321282168994b1b37e195c68ec0404abef1bd992e7
+Filename: debs/com.swing.eleme_1.0.3_iphoneos-arm.deb
+Size: 12428
+MD5sum: 4e53e4fc8be61dd22fec85a686d0d9e8
+SHA1: b7b650ba8b732757d7149685f45a64b88468ccce
+SHA256: 6a22aaf5cd96f75566e480afc92422113528393ce4516f16f450a8fe4bc55eaa
 Section: Tweaks
-Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
