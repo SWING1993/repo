@@ -113,18 +113,18 @@ Name: 钉钉助手v3-Rootless
 Sileodepiction: https://repo.abox.plus/depictions/native/com.bi8abo.dingtalk.json
 
 Package: com.swing.bilibili
-Version: 1.1.2
-Architecture: iphoneos-arm
+Version: 1.1.3
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 168
+Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.1.2_iphoneos-arm.deb
-Size: 14276
-MD5sum: 8fa7c2e3c661722506aee0d7355e189f
-SHA1: 5488f1b34993b5eaf08a0f7d9d93f150d5c86c09
-SHA256: 28cecadf08fba954287d1efa1b071e73088b53602ace052dd943f789faeb4070
+Filename: debs/com.swing.bilibili_1.1.3_iphoneos-arm64.deb
+Size: 18856
+MD5sum: 24fee776a6c704854cede9d535563d0c
+SHA1: 325006214e2cbe9900525c4f8201375ded81ce71
+SHA256: 92050d4c0c401da47bc62e5f074e32907f0b3c5aae292a1c9209baeefd569868
 Section: Tweaks
-Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
@@ -132,23 +132,61 @@ Name: 哔哩哔哩NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
 
 Package: com.swing.bilibili
-Version: 1.1.2
-Architecture: iphoneos-arm64
+Version: 1.1.3
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 200
+Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.bilibili_1.1.2_iphoneos-arm64.deb
-Size: 14574
-MD5sum: 8d702292835231982dc3f219e35ee977
-SHA1: 0a4654ef43ad22680e4c60ced4b6d5c5bae17b30
-SHA256: e681ce92dca1e3d8ebfa41cc4e44c431c91b40df51937054f309998e4257eb4e
+Filename: debs/com.swing.bilibili_1.1.3_iphoneos-arm.deb
+Size: 18776
+MD5sum: b5288adc617fccaa0fa221127b8bc3f4
+SHA1: 13047de80b5a19d6d31af502847fa7115a40ad5c
+SHA256: 2e4e49d9526d190d6910161a9ced5121215e2620f09ef4e4d6bd697aee420459
 Section: Tweaks
-Description: 净化哔哩哔哩和哔哩哔哩国际版的相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993/1
+Description: 哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bilibili
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.bilibili/icon.png
 Name: 哔哩哔哩NoAds
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bilibili.json
+
+Package: com.swing.bililite
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.bililite_1.0.0_iphoneos-arm64.deb
+Size: 10656
+MD5sum: c539ce15f5c75810cb576b012ec1228a
+SHA1: 2212c3b91d35d5cb6d38cc3edd6245906884b47a
+SHA256: dcf12c5bf509919395d177ef21282ec791b7996b63f0f909b26ebffb1cc9927a
+Section: Tweaks
+Description: 哔哩哔哩国际版净化相关页面与广告，默认播放会员4K画质。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bililite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bililite/icon.png
+Name: 哔哩哔哩国际版NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bililite.json
+
+Package: com.swing.bililite
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.bililite_1.0.0_iphoneos-arm.deb
+Size: 10606
+MD5sum: c8f92174a8c3f1d738edbd3650eac920
+SHA1: b38c4759acc3240d7664eeb83c7510a524e7f42d
+SHA256: c1adf64b2b3b8e711562ca1b6e6020763d75ec97cc4254f62d40d46c77322696
+Section: Tweaks
+Description: 哔哩哔哩国际版净化相关页面与广告，默认播放会员4K画质。无设置项，安装即可生效。 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.bililite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.bililite/icon.png
+Name: 哔哩哔哩国际版NoAds
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.bililite.json
 
 Package: com.swing.ddmcnoads
 Version: 0.0.2
