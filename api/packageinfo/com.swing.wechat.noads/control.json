@@ -1,1 +1,1 @@
-{ "Package": "com.swing.wechat.noads", "Name": "微信去广告", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "微信去广告插件测试版，基于v8.0.49开发!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "com.swing.wechat.noads", "Name": "微信去广告", "Version": "1.1.0", "Architecture": "iphoneos-arm", "Description": "微信去广告插件测试版，基于v8.0.49开发。删除新版公众号列表、文章中间和底部的广告，删除朋友圈广告，删除小程序的广告!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

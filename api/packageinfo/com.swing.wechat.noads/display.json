@@ -1,1 +1,1 @@
-{ "contact": { "wechat": "JUMP293410176", "email": "swing1993@qq.com" }, "information": { "description": "微信去广告插件测试版，基于v8.0.49开发!" }, "changelog": [ { "date": "2024-05-20", "version_number": "1.0.0", "changes": "Initial release" } ] }
+{ "contact": { "wechat": "JUMP293410176", "email": "swing1993@qq.com" }, "information": { "description": "微信去广告插件测试版，基于v8.0.49开发。删除新版公众号列表、文章中间和底部的广告，删除朋友圈广告，删除小程序的广告!" }, "changelog": [ { "date": "2024-05-20", "version_number": "1.1.0", "changes": "Initial release" } ] }

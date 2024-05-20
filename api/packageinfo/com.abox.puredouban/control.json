@@ -1,1 +1,1 @@
-{ "Package": "com.abox.puredouban", "Name": "豆瓣净化", "Version": "1.1.0", "Architecture": "iphoneos-arm", "Description": "去广告，无水印保存图片", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "com.abox.puredouban", "Name": "豆瓣净化", "Version": "1.1.1", "Architecture": "iphoneos-arm", "Description": "去广告，无水印保存图片", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

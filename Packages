@@ -37,16 +37,16 @@ Name: 小鸡模拟器
 Sileodepiction: https://repo.abox.plus/depictions/native/co.swing.chick.json
 
 Package: com.abox.puredouban
-Version: 1.1.0
-Architecture: iphoneos-arm64
+Version: 1.1.1
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 204
+Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.abox.puredouban_1.1.0_iphoneos-arm64.deb
-Size: 15580
-MD5sum: 98bd77c4de2e40aa552d200e5a20122f
-SHA1: 5d73f307339620f99de1c22a887d63ae9155b9b3
-SHA256: f0dd0dc2741e16f45a8f12e797652808c8c4b907466539aafe7890af7fc009d2
+Filename: debs/com.abox.puredouban_1.1.1_iphoneos-arm.deb
+Size: 16206
+MD5sum: 42eb29b725dda391b332941ac93b106c
+SHA1: 2af2a1cc940c9cc88ae2b92ac3eafe1dd51904a8
+SHA256: 4f41fe616289f2c819bb50c594b60df2f67ce0ad164b452a6cf4e3c7b1c4595c
 Section: Tweaks
 Description: 去广告，无水印保存图片
 Author: SWING
@@ -56,16 +56,16 @@ Name: 豆瓣净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
 
 Package: com.abox.puredouban
-Version: 1.1.0
-Architecture: iphoneos-arm
+Version: 1.1.1
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 172
+Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.abox.puredouban_1.1.0_iphoneos-arm.deb
-Size: 15434
-MD5sum: 0ad847832f7939aecdb14d41a7f29946
-SHA1: f478a7ed426f5dc886a0a7f21215bae4ade904d6
-SHA256: 495ce301ae6a7f69b8434df1411d86a4ad08cefb2534d39890ae570f0e0b89fe
+Filename: debs/com.abox.puredouban_1.1.1_iphoneos-arm64.deb
+Size: 16332
+MD5sum: 851a53d009520285b9091e7d2131c4ea
+SHA1: 46220ce9592dead3f4b784e8d39382a607e219a4
+SHA256: 4712498695925f6469a087f2f91163f4df3a9998e90402560dd905b2465f27ed
 Section: Tweaks
 Description: 去广告，无水印保存图片
 Author: SWING
@@ -379,18 +379,18 @@ Name: QQ邮箱去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.qqmail.json
 
 Package: com.swing.wechat.noads
-Version: 1.0.0
-Architecture: iphoneos-arm
+Version: 1.1.0
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 216
+Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.wechat.noads_1.0.0_iphoneos-arm.deb
-Size: 15802
-MD5sum: 688e0f8325c4a888b681d32120e414e1
-SHA1: acc789eee2c0b1fabe6671126507eee7aaea6ee3
-SHA256: 8eb60131de9f13b3682d1767fc15cbeae780b2a6ddc02f79edee8c11a48d15c0
+Filename: debs/com.swing.wechat.noads_1.1.0_iphoneos-arm64.deb
+Size: 13556
+MD5sum: 220b10e13ac1175bbf81747fe3038f08
+SHA1: 2e7e5815d3d9dcf8e454c836d710943321ae2561
+SHA256: a4e2108076dca2b00514131b5e6e650c6d1eb5dce1c5cd61e14b0603be96e70e
 Section: Tweaks
-Description: 微信去广告插件测试版，基于v8.0.49开发!
+Description: 微信去广告插件测试版，基于v8.0.49开发。删除新版公众号列表、文章中间和底部的广告，删除朋友圈广告，删除小程序的广告!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
@@ -398,18 +398,18 @@ Name: 微信去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
 
 Package: com.swing.wechat.noads
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Version: 1.1.0
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 216
+Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.wechat.noads_1.0.0_iphoneos-arm64.deb
-Size: 15464
-MD5sum: d6c1aefc503a217a5a7a75ceaec36b9d
-SHA1: d45964d7ef644aa3fff4483c1e6dd995e7151b16
-SHA256: 955c64de3414149cbeec875d8fbd655de12b70a4046e390e71c5e9dac7c54d73
+Filename: debs/com.swing.wechat.noads_1.1.0_iphoneos-arm.deb
+Size: 13474
+MD5sum: 276a3ba16db69c892318e5747c4fe182
+SHA1: 88eaf4754cbd3f46acc2a7c1e46a6a30cdbee06c
+SHA256: d98de1e980841b449b2dea35dcfc0958587a47dd2fdef189ddfd1042af140848
 Section: Tweaks
-Description: 微信去广告插件测试版，基于v8.0.49开发!
+Description: 微信去广告插件测试版，基于v8.0.49开发。删除新版公众号列表、文章中间和底部的广告，删除朋友圈广告，删除小程序的广告!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.wechat.noads
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.wechat.noads/icon.png
