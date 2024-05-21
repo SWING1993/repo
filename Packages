@@ -43,10 +43,10 @@ Maintainer: SWING
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.abox.puredouban_1.1.1_iphoneos-arm.deb
-Size: 16206
-MD5sum: 42eb29b725dda391b332941ac93b106c
-SHA1: 2af2a1cc940c9cc88ae2b92ac3eafe1dd51904a8
-SHA256: 4f41fe616289f2c819bb50c594b60df2f67ce0ad164b452a6cf4e3c7b1c4595c
+Size: 15878
+MD5sum: b8c9ec41d23439f4f382d83280dc375f
+SHA1: 61fe10054ba0f01808ce79c952da54658326316c
+SHA256: 92fdc5ca32ba4cca9187b402a1c9d1b612aca8dfee035219afd96e397deb60bb
 Section: Tweaks
 Description: 去广告，无水印保存图片
 Author: SWING
@@ -62,10 +62,10 @@ Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.abox.puredouban_1.1.1_iphoneos-arm64.deb
-Size: 16332
-MD5sum: 851a53d009520285b9091e7d2131c4ea
-SHA1: 46220ce9592dead3f4b784e8d39382a607e219a4
-SHA256: 4712498695925f6469a087f2f91163f4df3a9998e90402560dd905b2465f27ed
+Size: 15974
+MD5sum: 4fa6a921a7a9993b2d9684be21b57e94
+SHA1: 90a58fa6dfdc01741927a0a470e2498a348a4875
+SHA256: 3ca6cf878487b3074ca7cb8868619f7b94805069b86a5793f2b8bf537a8c9537
 Section: Tweaks
 Description: 去广告，无水印保存图片
 Author: SWING
