@@ -1,9 +1,9 @@
 {
   "package_ids": [
     "com.swing.wechat.noads",
-    "com.swing.bilibili",
     "com.abox.puredouban",
     "com.swing.eleme",
+    "com.swing.bilibili",
     "com.swing.bililite",
     "com.swing.qqmail",
     "com.swing.weibolite",
