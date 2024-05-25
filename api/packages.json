@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.swing.puretieba",
     "com.swing.wechat.noads",
     "com.abox.puredouban",
     "com.swing.eleme",
@@ -7,7 +8,6 @@
     "com.swing.bililite",
     "com.swing.qqmail",
     "com.swing.weibolite",
-    "com.swing.puretieba",
     "com.swing.weibo",
     "co.swing.chick",
     "com.swing.zhihu",
