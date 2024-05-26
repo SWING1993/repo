@@ -1,1 +1,1 @@
-{ "Package": "com.swing.puretieba", "Name": "百度贴吧去广告", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "百度贴吧去广告插件！", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
+{ "Package": "com.swing.puretieba", "Name": "百度贴吧去广告", "Version": "1.0.1", "Architecture": "iphoneos-arm64", "Description": "百度贴吧去广告插件！", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
