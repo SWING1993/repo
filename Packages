@@ -385,10 +385,10 @@ Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.wechat.noads_1.1.6_iphoneos-arm.deb
-Size: 16788
-MD5sum: bf3f1dec71ed1470f9be1247dcf09643
-SHA1: d827553e37ffa4fd28f51cdad76af473623e9083
-SHA256: 0c42285177eb81e162ca9a98b1de923824186d148ac5d3568b07a5cbb07fa38d
+Size: 16786
+MD5sum: e2693874c2fc2a25cb7805dc93407563
+SHA1: 200d798d8f36157362561a7b4e96074ddb9c7c7b
+SHA256: 520e5a95ddd34bb0d5529a667e6c9733147fc56ce49da6c54b8d1261dbc05550
 Section: Tweaks
 Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、看一看、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
@@ -404,10 +404,10 @@ Maintainer: SWING
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.wechat.noads_1.1.6_iphoneos-arm64.deb
-Size: 16126
-MD5sum: 7573349c1294776e00b316147404ad24
-SHA1: 2c9d54312b108dad7348112b3622bf95b9c32897
-SHA256: a4c6b0eab0c025e4d77dc732f2889e890eb31a767c7ba98fbe85ee1d60c35b12
+Size: 16114
+MD5sum: 0ba86152606f307981532bc45ccd6b8e
+SHA1: abc718100e518aa253e3f653836e94a1edd384c5
+SHA256: 1f8562cc96a5d189455f5e03608a5880d92faeb078a77bfb72686e07b68ae341
 Section: Tweaks
 Description: 最新版微信（v8.0.49）去广告插件。删除搜索页面的广告，删除公众号列表广告、看一看、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  源内所有插件仅供本人测试使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
 Author: SWING
