@@ -1,3 +1,41 @@
+Package: cn.swing.trip
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cn.swing.trip_1.0.0_iphoneos-arm.deb
+Size: 6208
+MD5sum: 0c1fa78b5f1f82b68974d67cfa5faf3f
+SHA1: ab3ca4bb1c32d6e36f90239755fb2f1573f6d27d
+SHA256: 68f49578831d343b44df136f9249761ea3a621e5f66b4fe2be8f5474a5e0b902
+Section: Tweaks
+Description: 智行火车票去启动闪屏，去底部活动TabItem!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=cn.swing.trip
+Icon: https://repo.abox.plus/api/packageinfo/cn.swing.trip/icon.png
+Name: TripNoSplash
+Sileodepiction: https://repo.abox.plus/depictions/native/cn.swing.trip.json
+
+Package: cn.swing.trip
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/cn.swing.trip_1.0.0_iphoneos-arm64.deb
+Size: 4106
+MD5sum: f8810e087e7cb5b0779783201961460e
+SHA1: 227d6ab48a3c25f933345934d1a5827f84f2849f
+SHA256: 2fffa1b7b66a0ac3d8bf830881c43bd309c9d8882f512ce29c6b1f59fc5635cf
+Section: Tweaks
+Description: 智行火车票去启动闪屏，去底部活动TabItem!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=cn.swing.trip
+Icon: https://repo.abox.plus/api/packageinfo/cn.swing.trip/icon.png
+Name: TripNoSplash
+Sileodepiction: https://repo.abox.plus/depictions/native/cn.swing.trip.json
+
 Package: co.swing.chick
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -322,18 +360,18 @@ Name: 米家NoAds-Rootless
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.swing.mihome.json
 
 Package: com.swing.padswitcher
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Version: 1.0.1
+Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 372
+Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.swing.padswitcher_1.0.0_iphoneos-arm64.deb
-Size: 31230
-MD5sum: 7ab74857c62877157e699d1e5fbd8844
-SHA1: 4138ffbfe24f45ef829f578b47958755fb76bc2b
-SHA256: 65f3a36757499088e9ad4768f068b27dcebe8c11697923f3d1d5f82130e34f8a
+Filename: debs/com.swing.padswitcher_1.0.1_iphoneos-arm.deb
+Size: 26232
+MD5sum: c80544353d112b4266e51ef800a04a58
+SHA1: 174b784efef9de2eb85524663a20fd002b997ea2
+SHA256: ab105a1f74e75ba838eb6d562befdf856f0a7c284c0805d00a97fc365a7e63e2
 Section: Tweaks
-Description: 在iPhone上启用iPad风格的多任务界面。
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
@@ -341,18 +379,18 @@ Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
 Package: com.swing.padswitcher
-Version: 1.0.0
-Architecture: iphoneos-arm
+Version: 1.0.1
+Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 372
+Installed-Size: 368
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: debs/com.swing.padswitcher_1.0.0_iphoneos-arm.deb
-Size: 31164
-MD5sum: 280ee66fb69701b95acebb688cff132e
-SHA1: 19d0554201d062dced5a22f682897eaa25cba611
-SHA256: 5123e60b415df7d31605866f66e586d460dad8e2c351f71f2c00321ac8e861e5
+Filename: debs/com.swing.padswitcher_1.0.1_iphoneos-arm64.deb
+Size: 26324
+MD5sum: 68c4c719b315902cc82c8c7b7e3e5f48
+SHA1: 6f125062c482a2d67f09d890761cf32a8bfd8e1c
+SHA256: b983649283f2df5cba300b4a9818523246db86740e5241aad6395803a1aa29ed
 Section: Tweaks
-Description: 在iPhone上启用iPad风格的多任务界面。
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
