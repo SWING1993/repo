@@ -1,0 +1,1 @@
+{ "Package": "com.swing.padswitcher", "Name": "PadSwitcher - iPad多任务", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "在iPhone上启用iPad风格的多任务界面。", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)" }

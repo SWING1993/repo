@@ -321,6 +321,44 @@ Icon: https://p2kdev.github.io/repo/api/packageinfo/com.swing.mihome/icon.png
 Name: 米家NoAds-Rootless
 Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.swing.mihome.json
 
+Package: com.swing.padswitcher
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.swing.padswitcher_1.0.0_iphoneos-arm64.deb
+Size: 31230
+MD5sum: 7ab74857c62877157e699d1e5fbd8844
+SHA1: 4138ffbfe24f45ef829f578b47958755fb76bc2b
+SHA256: 65f3a36757499088e9ad4768f068b27dcebe8c11697923f3d1d5f82130e34f8a
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
+Package: com.swing.padswitcher
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.swing.padswitcher_1.0.0_iphoneos-arm.deb
+Size: 31164
+MD5sum: 280ee66fb69701b95acebb688cff132e
+SHA1: 19d0554201d062dced5a22f682897eaa25cba611
+SHA256: 5123e60b415df7d31605866f66e586d460dad8e2c351f71f2c00321ac8e861e5
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
 Package: com.swing.puretieba
 Version: 1.0.3
 Architecture: iphoneos-arm64
