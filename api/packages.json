@@ -1,7 +1,8 @@
 {
   "package_ids": [
-    "com.swing.wechat.noads",
+    "com.swing.jump",
     "com.swing.puretieba",
+    "com.swing.wechat.noads",
     "com.abox.puredouban",
     "com.swing.eleme",
     "com.swing.bilibili",
@@ -13,7 +14,6 @@
     "com.swing.zhihu",
     "com.swing.dpnoads",
     "com.swing.ddmcnoads",
-    "com.swing.jump",
     "com.swing.mihome",
     "com.swing.gamesky"
   ]
