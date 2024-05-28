@@ -1,1 +1,1 @@
-{ "Package": "com.swing.jump", "Name": "Jump去广告", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "JumpApp去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
+{ "Package": "com.swing.jump", "Name": "Jump去广告", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "JumpApp去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
