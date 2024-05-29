@@ -397,6 +397,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
+Package: com.swing.padswitcher
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: debs/com.swing.padswitcher_1.0.5_iphoneos-arm64.deb
+Size: 25946
+MD5sum: f60ab9ca830232a3e0f4d02e9a113496
+SHA1: a5524a2aa7181cdc32d557590a11c1c0d7403fef
+SHA256: 859209bd81a866747a3411b2feb66dc34a135594137ee874bbea437d1d7e6e7e
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
+Package: com.swing.padswitcher
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: debs/com.swing.padswitcher_1.0.5_iphoneos-arm.deb
+Size: 25852
+MD5sum: b806244b12ce2274091ea24ea501878a
+SHA1: 9eca8909d1cf79af0bfe31c103319df4bd6be6da
+SHA256: 945bceff8baf528ffbc48b8379eb6899b9fe4a77152831812dcdc192d10e4df0
+Section: Tweaks
+Description: 在iPhone上启用iPad风格的多任务界面和Dock栏。
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.padswitcher
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
+Name: PadSwitcher - iPad多任务
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
+
 Package: com.swing.puretieba
 Version: 1.0.3
 Architecture: iphoneos-arm64
