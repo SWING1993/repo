@@ -512,16 +512,16 @@ Name: 微信去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.wechat.noads.json
 
 Package: com.swing.weibo
-Version: 1.2.1
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 204
+Installed-Size: 220
 Depends: mobilesubstrate
-Filename: debs/com.swing.weibo_1.2.1_iphoneos-arm.deb
-Size: 25680
-MD5sum: 8d7342055f53399c732734652faeaa1e
-SHA1: dd921c51746a48c8e724f8788e537a02ac15a82c
-SHA256: 34b43e0082a005897f09e44260d50505b42e8e27190efac8d8e583d7d9f28b66
+Filename: debs/com.swing.weibo_1.2.3_iphoneos-arm.deb
+Size: 28346
+MD5sum: e6371d5baaa39a79fb1c953e73f4ad2d
+SHA1: 78b10537634486a5139d1fe090bd10b4bd8d7ee0
+SHA256: 3907df600ed61a0449e0c71ec5c70ad5ff997f320dd77b1e2cc2d0e9ce861d2f
 Section: Tweaks
 Description: 删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。
 Author: SWING
@@ -531,16 +531,16 @@ Name: 微博去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
 
 Package: com.swing.weibo
-Version: 1.2.1
+Version: 1.2.3
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 236
 Depends: mobilesubstrate
-Filename: debs/com.swing.weibo_1.2.1_iphoneos-arm64.deb
-Size: 25904
-MD5sum: 391e9b5e71fc856a52c689063a64f62d
-SHA1: 294f0a318406c42f830fe41c0280e1f974de8560
-SHA256: 0cc311aeb62992c5a36aa92e8fd93d4bfd5ec48c0745f39331a9da112c410b88
+Filename: debs/com.swing.weibo_1.2.3_iphoneos-arm64.deb
+Size: 28222
+MD5sum: e9b3cd8b23abdb4f1d036be520ae7a52
+SHA1: cdc64fdb09a80e250f0ac6c437ba3879d66246bd
+SHA256: f019a83cd9f292a0bb6fed4b3f54a8a5abb4bc415f64a52c887e93e4eed403c4
 Section: Tweaks
 Description: 删除启动页、信息流、视频流、评论列表、发现等页面的广告，支持修改设备型号。
 Author: SWING

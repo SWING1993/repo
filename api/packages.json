@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.swing.weibo",
     "com.swing.padswitcher",
     "cn.swing.trip",
     "com.swing.wechat.noads",
@@ -11,7 +12,6 @@
     "com.swing.bililite",
     "com.swing.qqmail",
     "com.swing.weibolite",
-    "com.swing.weibo",
     "co.swing.chick",
     "com.swing.zhihu",
     "com.swing.dpnoads",
