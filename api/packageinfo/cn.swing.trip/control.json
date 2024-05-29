@@ -1,1 +1,1 @@
-{ "Package": "cn.swing.trip", "Name": "TripNoSplash", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "智行火车票去启动闪屏，去底部活动TabItem!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "cn.swing.trip", "Name": "TripNoSplash", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "智行火车票去启动闪屏，去底部活动TabItem!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
