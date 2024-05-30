@@ -1,21 +1,5 @@
 {
   "package_ids": [
-    "com.swing.zhihu",
-    "com.swing.padswitcher",
-    "com.swing.weibo",
-    "cn.swing.trip",
-    "com.swing.puretieba",
-    "com.swing.jump",
-    "com.abox.puredouban",
-    "com.swing.eleme",
-    "com.swing.bilibili",
-    "com.swing.bililite",
-    "com.swing.qqmail",
-    "com.swing.weibolite",
-    "co.swing.chick",
-    "com.swing.dpnoads",
-    "com.swing.ddmcnoads",
-    "com.swing.mihome",
-    "com.swing.gamesky"
+    "com.swing.padswitcher"
   ]
 }

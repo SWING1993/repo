@@ -1,1 +1,0 @@
-{ "Package": "com.swing.puretieba", "Name": "百度贴吧去广告", "Version": "1.0.3", "Architecture": "iphoneos-arm64", "Description": "百度贴吧去广告插件，更新适配 v12.61.3", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
