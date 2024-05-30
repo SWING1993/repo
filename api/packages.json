@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.swing.zhihu",
     "com.swing.padswitcher",
     "com.swing.weibo",
     "cn.swing.trip",
@@ -13,7 +14,6 @@
     "com.swing.qqmail",
     "com.swing.weibolite",
     "co.swing.chick",
-    "com.swing.zhihu",
     "com.swing.dpnoads",
     "com.swing.ddmcnoads",
     "com.swing.mihome",
