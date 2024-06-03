@@ -1,0 +1,1 @@
+{ "Package": "com.swing.qqmail", "Name": "QQ邮箱去广告", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "QQ邮箱去广告插件。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

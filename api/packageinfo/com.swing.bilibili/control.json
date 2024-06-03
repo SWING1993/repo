@@ -1,0 +1,1 @@
+{ "Package": "com.swing.bilibili", "Name": "哔哩哔哩NoAds", "Version": "1.1.3", "Architecture": "iphoneos-arm64", "Description": "哔哩哔哩（国内版）净化相关页面与广告。无设置项，安装即可生效。 软件源：https://repo.abox.plus TG：https://t.me/abox1993", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

@@ -1,0 +1,1 @@
+{ "Package": "com.swing.weibolite", "Name": "微博轻享版去广告", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
