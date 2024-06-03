@@ -1,1 +1,0 @@
-{ "Package": "com.swing.ddmcnoads", "Name": "叮咚买菜NoAds", "Version": "0.0.2", "Architecture": "iphoneos-arm64", "Description": "叮咚买菜去广告!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

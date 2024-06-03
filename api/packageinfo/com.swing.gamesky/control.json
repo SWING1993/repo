@@ -1,1 +1,0 @@
-{ "Package": "com.swing.gamesky", "Name": "游民星空NoAds-Rootless", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "游民星空App去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

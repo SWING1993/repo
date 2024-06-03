@@ -1,1 +1,0 @@
-{ "Package": "com.swing.eleme", "Name": "饿了么去广告", "Version": "1.0.3", "Architecture": "iphoneos-arm", "Description": "饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus TG：https://t.me/abox1993", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

@@ -1,1 +1,0 @@
-{ "Package": "com.swing.mihome", "Name": "米家NoAds-Rootless", "Version": "1.0.0", "Architecture": "iphoneos-arm64", "Description": "米家去广告插件!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
