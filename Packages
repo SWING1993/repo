@@ -112,6 +112,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
 Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
+Package: com.swing.fuckaweme
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.fuckaweme_1.0.2_iphoneos-arm64.deb
+Size: 73714
+MD5sum: fccb1d376fe905aad84d92bd7eefe5a7
+SHA1: 0ce03175dcca84fa933fd28430432a958b0b00d5
+SHA256: fefe230f908902fedd2efc180ddf6d0fa8704f037931401e9a87eefaff1eecdb
+Section: Tweaks
+Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.fuckaweme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.fuckaweme/icon.png
+Name: FuckAweme
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.fuckaweme.json
+
+Package: com.swing.fuckaweme
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.fuckaweme_1.0.2_iphoneos-arm.deb
+Size: 73562
+MD5sum: f838132352574da99eb8c917666e935b
+SHA1: 4fc0aeed538b40839e856859d6be9c80a32fa2b1
+SHA256: 515b310f5bbcd884686ceaaabedef5cb43502aaf16cef0c3f79bf78abb1140de
+Section: Tweaks
+Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.fuckaweme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.fuckaweme/icon.png
+Name: FuckAweme
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.fuckaweme.json
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm
