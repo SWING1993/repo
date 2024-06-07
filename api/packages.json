@@ -1,5 +1,7 @@
 {
   "package_ids": [
+    "com.swing.zhihu",
+    "com.swing.wechat.noads",
     "com.swing.padswitcher"
   ]
 }
