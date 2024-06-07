@@ -1,3 +1,41 @@
+Package: com.abox.puredouban
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.abox.puredouban_1.1.2_iphoneos-arm.deb
+Size: 6738
+MD5sum: db35964e59412944cc8e85c33ce64266
+SHA1: c92118b056bef2d49913951a2f3e4a875987a624
+SHA256: b5aa284ef05efae4a0a76dc12a7ad6a4148b2c7834d0671607cdb4151f595937
+Section: Tweaks
+Description: 去广告，无水印保存图片
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.abox.puredouban
+Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
+Name: 豆瓣净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
+
+Package: com.abox.puredouban
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.abox.puredouban_1.1.2_iphoneos-arm64.deb
+Size: 6720
+MD5sum: dba7a90c507e7677a685a6ad0ca63e51
+SHA1: 484dee51f258ef0e580ddc8347ad119ef91e0927
+SHA256: 9271a93967c3bcd6f64432dbd7d7d4af1f06b6cfb988fdd6607d1e7bf6707e9f
+Section: Tweaks
+Description: 去广告，无水印保存图片
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.abox.puredouban
+Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
+Name: 豆瓣净化
+Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
+
 Package: com.swing.bilibili
 Version: 1.1.4-1
 Architecture: iphoneos-arm64
