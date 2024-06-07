@@ -1,1 +1,1 @@
-{ "Package": "com.swing.zhihu", "Name": "知乎去广告", "Version": "1.1.3-3", "Architecture": "iphoneos-arm", "Description": "知乎去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
+{ "Package": "com.swing.zhihu", "Name": "知乎去广告", "Version": "1.1.3-3", "Architecture": "iphoneos-arm64", "Description": "知乎去广告插件", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate" }
