@@ -1,1 +1,0 @@
-{ "Package": "com.swing.purexhs", "Name": "小红书净化", "Version": "", "Architecture": "iphoneos-arm", "Description": "自用插件且仅限越狱，注入无效!!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
