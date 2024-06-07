@@ -1,8 +1,9 @@
 {
   "package_ids": [
-    "com.swing.eleme",
-    "com.swing.bilibili",
+    "com.swing.fuckaweme",
     "com.swing.weibo",
+    "com.swing.bilibili",
+    "com.swing.eleme",
     "com.swing.wechat.noads",
     "com.swing.zhihu",
     "com.swing.padswitcher"
