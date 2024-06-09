@@ -112,6 +112,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
 Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
+Package: com.swing.eleme
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.eleme_1.0.4_iphoneos-arm64.deb
+Size: 11398
+MD5sum: bc9f8024141d997243bdc56337237b58
+SHA1: 84bcf9b8276a4e8b255386702e0bdcb22deac28c
+SHA256: 636131b9cc28a3006af77ce5ea37ce930ff39bf78c981376980bfba2c130c344
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.swing.eleme
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.eleme_1.0.4_iphoneos-arm.deb
+Size: 11760
+MD5sum: b1aca13a875bffb2798862e5e66539cd
+SHA1: 3b07213f4f62cbd20af10b52fe2825e32aeb7f3b
+SHA256: 14e166ce80753964c86c18988aa3ad49bdb9fe14c1fa749367ada18a2e679c1f
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm
