@@ -226,6 +226,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibo/icon.png
 Name: 微博去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibo.json
 
+Package: com.swing.weibolite
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.weibolite_1.0.2_iphoneos-arm64.deb
+Size: 10526
+MD5sum: fb98f3d5ecee63aa9e557879dc9f483b
+SHA1: ed459f08cb68ba2553f88403e661a3615e751875
+SHA256: 6b10d208583931f5a21c7ad2934bb1e49a14e43df3934466b5def0fd1b0b0d09
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
+Package: com.swing.weibolite
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.weibolite_1.0.2_iphoneos-arm.deb
+Size: 11120
+MD5sum: 6222bd6e99913b59a2fe55924ed0d3da
+SHA1: 7a88158432a1412e583a30a69f71408b423b6c46
+SHA256: c574943ea5cc34499607e5f730a33d230aa6b3ed3e5ecea92d5ea1b17bebfcb5
+Section: Tweaks
+Description: 微博轻享版去广告去广告插件，TG：https://t.me/abox1993/1
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weibolite
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
+Name: 微博轻享版去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
+
 Package: com.swing.zhihu
 Version: 1.1.3-3
 Architecture: iphoneos-arm64
