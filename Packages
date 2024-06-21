@@ -119,10 +119,10 @@ Maintainer: SWING
 Installed-Size: 408
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.fuckaweme_1.0.4_iphoneos-arm.deb
-Size: 64684
-MD5sum: 4890d028880caf06506056038a9833e5
-SHA1: 1b34ae7902e84cf3cf0ce83c00e7b28dc695caf8
-SHA256: c3c80b2db424523f21577f7429a881adb67fa691555f7caa296b0221a71bfabe
+Size: 64722
+MD5sum: 13ab4b71dcd0ac908ef9f01fa024d5a5
+SHA1: 88f2dd592aae8c70d6d39c31bf25fe490c001f6b
+SHA256: aaa40c2d3267496653e7268db8093f203b9e4f849a167f705b0bed0bbd455ca8
 Section: Tweaks
 Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
 Author: SWING
@@ -138,10 +138,10 @@ Maintainer: SWING
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/com.swing.fuckaweme_1.0.4_iphoneos-arm64.deb
-Size: 61532
-MD5sum: 0c60e9cf8e0c0b38398e48dc07165889
-SHA1: 8fc865d36ef5e18788f7f5d3cac81b8672cb01de
-SHA256: 904766002fdb6fd22e91c0a5b89cd7ce45d4e956a0761d115edc709098b43068
+Size: 61574
+MD5sum: 29e6d9bd5ab20f852ed145c55a298d5a
+SHA1: 708ce38d3609187a22105e74dc8028e47d773c21
+SHA256: eacaed97fca9fbfaffe1b26ce152f9d0d4744c7193e31ac1ee24184a259e71b7
 Section: Tweaks
 Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
 Author: SWING

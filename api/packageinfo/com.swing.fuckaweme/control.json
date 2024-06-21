@@ -1,1 +1,1 @@
-{ "Package": "com.swing.fuckaweme", "Name": "FuckAweme", "Version": "1.0.4", "Architecture": "iphoneos-arm64", "Description": " 净化抖音的一些页面和广告，仅限越狱，注入无效!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "com.swing.fuckaweme", "Name": "FuckAweme", "Version": "1.0.4", "Architecture": "iphoneos-arm", "Description": " 净化抖音的一些页面和广告，仅限越狱，注入无效!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
