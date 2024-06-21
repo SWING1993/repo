@@ -150,6 +150,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
+Package: com.swing.tiktoknocreakbutton
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.tiktoknocreakbutton_1.0.0_iphoneos-arm64.deb
+Size: 3074
+MD5sum: ad3ebdea54146a4a0d8197add4c15dd4
+SHA1: d54d5f4f3448b2c4da606082ce747b8f107cb082
+SHA256: f80e7d4d5b78d8181b58ed8567f9614afa1106d885e7a181a96b8153c68de21c
+Section: Tweaks
+Description: TikTok去掉TabBar的创作按钮!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.tiktoknocreakbutton
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.tiktoknocreakbutton/icon.png
+Name: TikTokNoCreakButton
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.tiktoknocreakbutton.json
+
+Package: com.swing.tiktoknocreakbutton
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.tiktoknocreakbutton_1.0.0_iphoneos-arm.deb
+Size: 3228
+MD5sum: 8eb49ef9e3d34a55148250bbfced533b
+SHA1: b93854849b6cb3ba04c7bcddaafc10921caa2b5b
+SHA256: ef93aea945098c8dacacc3083ce85f2e41a1d29129ddcfc9cd163e5a7b3187ee
+Section: Tweaks
+Description: TikTok去掉TabBar的创作按钮!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.tiktoknocreakbutton
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.tiktoknocreakbutton/icon.png
+Name: TikTokNoCreakButton
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.tiktoknocreakbutton.json
+
 Package: com.swing.wechat.noads
 Version: 1.1.8-1
 Architecture: iphoneos-arm
