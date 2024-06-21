@@ -1,0 +1,1 @@
+{ "Package": "com.swing.tiktoknocreatbutton", "Name": "TikTokNoCreatButton", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "TikTok去掉TabBar的创作按钮!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
