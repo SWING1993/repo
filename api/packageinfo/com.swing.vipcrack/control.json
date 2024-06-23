@@ -1,1 +1,0 @@
-{ "Package": "com.swing.vipcrack", "Name": "VipCrack", "Version": "1.0.1", "Architecture": "iphoneos-arm", "Description": "一木记账VIP(v1.8.4)/熊掌记Pro(v2.2.1)/云听VIP&解锁付费资源&去广告(v7.1.7)/WorkingCopy解锁Pro(v6.0.3)/喜马拉雅VIP(v9.2.60)", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

@@ -1,1 +1,0 @@
-{ "Package": "com.swing.xscreck", "Name": "解锁番茄畅听&番茄小说VIP", "Version": "1.0.2", "Architecture": "iphoneos-arm", "Description": "番茄畅听解锁VIP、去除直播模块和广告&番茄小说解锁SVIP、去广告", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

@@ -36,6 +36,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.abox.puredouban/icon.png
 Name: 豆瓣净化
 Sileodepiction: https://repo.abox.plus/depictions/native/com.abox.puredouban.json
 
+Package: com.swing.aweme
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.aweme_1.0.6_iphoneos-arm64.deb
+Size: 63402
+MD5sum: cc7d9c0636c3b4276f8070b5ff7294a9
+SHA1: 9ce25f48426bc3118e6e7154a0cd799dda1a170e
+SHA256: 73e0e9ee1acb91c3861e801ba1303142050f57180351422cd630f5694dab2bc5
+Section: Tweaks
+Description: Amazing Aweme Tweak!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.aweme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
+Name: AmazingAweme
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
+
+Package: com.swing.aweme
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 424
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.aweme_1.0.6_iphoneos-arm.deb
+Size: 66736
+MD5sum: 28787cbe589430f0a98c7c7cd5046ca4
+SHA1: e8430d8849b390d5bb69292fd3eaad3b52898c30
+SHA256: 02a0b8d37660fcd306aa6a663ea520234cd0f03148d27146170f22b95b5c1f60
+Section: Tweaks
+Description: Amazing Aweme Tweak!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.aweme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
+Name: AmazingAweme
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
+
 Package: com.swing.bilibili
 Version: 1.1.4-1
 Architecture: iphoneos-arm64
@@ -112,44 +150,6 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
 Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
-Package: com.swing.fuckaweme
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: SWING
-Installed-Size: 424
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.fuckaweme_1.0.5_iphoneos-arm.deb
-Size: 66852
-MD5sum: 9ca941054d3c8948d063998d6e1d5c8d
-SHA1: b0ac70e9b1c942841987430cf8f895f8989871a3
-SHA256: 6bc94a918e6a05857010fd3922931687e092726be48fe1868ceefffc86616a07
-Section: Tweaks
-Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.fuckaweme
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.fuckaweme/icon.png
-Name: FuckAweme
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.fuckaweme.json
-
-Package: com.swing.fuckaweme
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: SWING
-Installed-Size: 424
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.fuckaweme_1.0.5_iphoneos-arm64.deb
-Size: 63492
-MD5sum: bb89a006f5116d066d8ca274935c10d7
-SHA1: f93f6d7c11ab468e90cee064a9b0a5f4fd39f8a2
-SHA256: 4300b5d45b10aa54ae7700075da87770286ae836a8d7d53ed1d0b63d1255a6ae
-Section: Tweaks
-Description: 净化抖音的一些页面和广告，仅限越狱，注入无效!
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.fuckaweme
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.fuckaweme/icon.png
-Name: FuckAweme
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.fuckaweme.json
-
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm
@@ -225,44 +225,6 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.tikt
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.tiktoknocreatbutton/icon.png
 Name: TikTokNoCreatButton
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.tiktoknocreatbutton.json
-
-Package: com.swing.vipcrack
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: SWING
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.vipcrack_1.0.1_iphoneos-arm64.deb
-Size: 12506
-MD5sum: 1b4f5c4977fc431d34a1a01c97df1f61
-SHA1: b928a3eb2ee775e8a3c485928abe4674a0ce6974
-SHA256: 9e4a0fb682bbe316a97065b4061844ffb40061d152300da4a1ef56b85f0c66a5
-Section: Tweaks
-Description: 一木记账VIP(v1.8.4)/熊掌记Pro(v2.2.1)/云听VIP&解锁付费资源&去广告(v7.1.7)/WorkingCopy解锁Pro(v6.0.3)/喜马拉雅VIP(v9.2.60)
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.vipcrack
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.vipcrack/icon.png
-Name: VipCrack
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.vipcrack.json
-
-Package: com.swing.vipcrack
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: SWING
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.vipcrack_1.0.1_iphoneos-arm.deb
-Size: 12822
-MD5sum: 15fa1aa7f83d1965df2869984fb8c47d
-SHA1: 6e36909794f609909c071d09edfc5a5e49afd03f
-SHA256: a3d79f2677e07ff9d0106c697a9ae516e07bb23d19799784018dc2847d75244b
-Section: Tweaks
-Description: 一木记账VIP(v1.8.4)/熊掌记Pro(v2.2.1)/云听VIP&解锁付费资源&去广告(v7.1.7)/WorkingCopy解锁Pro(v6.0.3)/喜马拉雅VIP(v9.2.60)
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.vipcrack
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.vipcrack/icon.png
-Name: VipCrack
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.vipcrack.json
 
 Package: com.swing.wechat.noads
 Version: 1.1.8-1
@@ -377,44 +339,6 @@ Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.weib
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.weibolite/icon.png
 Name: 微博轻享版去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.weibolite.json
-
-Package: com.swing.xscreck
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: SWING
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.xscreck_1.0.2_iphoneos-arm.deb
-Size: 10798
-MD5sum: c65d5a6e8b6966af0d8a4795971a0aba
-SHA1: 10c226fc9d78b175b7c1dbaf030dc1d8cea369e7
-SHA256: 21d2119eefef5497056f181e414128f2922b171111034a7ffbf14970ba6e03ac
-Section: Tweaks
-Description: 番茄畅听解锁VIP、去除直播模块和广告&番茄小说解锁SVIP、去广告
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.xscreck
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.xscreck/icon.png
-Name: 解锁番茄畅听&番茄小说VIP
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.xscreck.json
-
-Package: com.swing.xscreck
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: SWING
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.xscreck_1.0.2_iphoneos-arm64.deb
-Size: 10592
-MD5sum: ce8d6f6469f92c6469f966aefc86928e
-SHA1: 5f9b329229d873038afe32a5874964bff441486c
-SHA256: 340683d5262f707827105a63ac08fad9ba25bb2597f527bd445deee264bd1c04
-Section: Tweaks
-Description: 番茄畅听解锁VIP、去除直播模块和广告&番茄小说解锁SVIP、去广告
-Author: SWING
-Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.xscreck
-Icon: https://repo.abox.plus/api/packageinfo/com.swing.xscreck/icon.png
-Name: 解锁番茄畅听&番茄小说VIP
-Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.xscreck.json
 
 Package: com.swing.zhihu
 Version: 1.1.3-3
