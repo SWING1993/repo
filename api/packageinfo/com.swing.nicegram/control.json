@@ -1,0 +1,1 @@
+{ "Package": "com.swing.nicegram", "Name": "Nicegram Premium", "Version": "1.0.0", "Architecture": "iphoneos-arm", "Description": "An awesome tweak for Nicegram! TG：https://t.me/abox1993", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

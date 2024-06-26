@@ -36,6 +36,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
 Name: AmazingAweme
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
 
+Package: com.swing.nicegram
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.nicegram_1.0.0_iphoneos-arm.deb
+Size: 5846
+MD5sum: b764b6489649beb323e91755a1d5b9ec
+SHA1: e477ce4d7993ec0c89b1e181d65706e557a442cb
+SHA256: 284b9e0f0e2017ce0541ff72d63e2f93840e8507885ddab218a071dea4478fdc
+Section: Tweaks
+Description: An awesome tweak for Nicegram! TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.nicegram
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.nicegram/icon.png
+Name: Nicegram Premium
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.nicegram.json
+
+Package: com.swing.nicegram
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.nicegram_1.0.0_iphoneos-arm64.deb
+Size: 5484
+MD5sum: 65f7bf5ed402b7ed7707a919660d504a
+SHA1: 8d75214dedac888c213ed7d9e1d1b68eceaf464d
+SHA256: e535cbff2d90cc1a88feff9b802124c0cd4646598a57e34100c2018f6a4bfecd
+Section: Tweaks
+Description: An awesome tweak for Nicegram! TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.nicegram
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.nicegram/icon.png
+Name: Nicegram Premium
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.nicegram.json
+
 Package: com.swing.padswitcher
 Version: 1.1.0
 Architecture: iphoneos-arm
