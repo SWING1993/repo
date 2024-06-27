@@ -112,6 +112,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.padswitcher/icon.png
 Name: PadSwitcher - iPad多任务
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.padswitcher.json
 
+Package: com.swing.termius
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.termius_1.0.0_iphoneos-arm.deb
+Size: 5678
+MD5sum: 4f686555c5b31635b37f0ab9e1fe1361
+SHA1: 1ceaea6e4db969774fc089ffd551d8adcddadaa4
+SHA256: 01d873a4acca784aae30ddd2c55389b44ab1623e4bfdb019fa392537eb834ef1
+Section: Tweaks
+Description: An awesome tweak for Termius! TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.termius
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.termius/icon.png
+Name: Termius Pro
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.termius.json
+
+Package: com.swing.termius
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.termius_1.0.0_iphoneos-arm64.deb
+Size: 5208
+MD5sum: c4505d2ed75806eff4a1b511fadbcdec
+SHA1: 298ca3f86242ea2504357df70ffa76627ce8f162
+SHA256: ae2efcdcdbbcc456334a1037e775ebbfc89ee529e0587bf04b49e7dcde863944
+Section: Tweaks
+Description: An awesome tweak for Termius! TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.termius
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.termius/icon.png
+Name: Termius Pro
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.termius.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm
