@@ -1,8 +1,8 @@
 {
   "package_ids": [
+    "com.swing.aweme",
     "com.swing.termius",
     "com.swing.nicegram",
-    "com.swing.aweme",
     "com.swing.tiktoknocreatbutton",
     "com.swing.padswitcher"
   ]

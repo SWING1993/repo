@@ -1,39 +1,39 @@
 Package: com.swing.aweme
-Version: 1.0.6
+Version: 1.0.6-1
 Architecture: iphoneos-arm64
 Maintainer: SWING
-Installed-Size: 424
+Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.aweme_1.0.6_iphoneos-arm64.deb
-Size: 63402
-MD5sum: cc7d9c0636c3b4276f8070b5ff7294a9
-SHA1: 9ce25f48426bc3118e6e7154a0cd799dda1a170e
-SHA256: 73e0e9ee1acb91c3861e801ba1303142050f57180351422cd630f5694dab2bc5
+Filename: debs/com.swing.aweme_1.0.6-1_iphoneos-arm64.deb
+Size: 64868
+MD5sum: 69d3b8c8d8cd3fea3ad90713499edb13
+SHA1: 77a5eaa1d1f90520e65df3fdffe38773ff1a6d86
+SHA256: 05ef544f7d2593e2608f66ce2424b7415744b426d1cc1748294ea3e7a54aae70
 Section: Tweaks
-Description: Amazing Aweme Tweak!
+Description: An awesome tweak for Aweme!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.aweme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
-Name: AmazingAweme
+Name: Amazing Aweme
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
 
 Package: com.swing.aweme
-Version: 1.0.6
+Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: SWING
-Installed-Size: 424
+Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.aweme_1.0.6_iphoneos-arm.deb
-Size: 66736
-MD5sum: 28787cbe589430f0a98c7c7cd5046ca4
-SHA1: e8430d8849b390d5bb69292fd3eaad3b52898c30
-SHA256: 02a0b8d37660fcd306aa6a663ea520234cd0f03148d27146170f22b95b5c1f60
+Filename: debs/com.swing.aweme_1.0.6-1_iphoneos-arm.deb
+Size: 67642
+MD5sum: bc424c904e616f99434dfb84794c0754
+SHA1: a69ec764b1fadc63a3557783b152eadb3d0acc49
+SHA256: 6f927d0a6cb78e4592a2b932d3da371aabd25d61cd3dc4ab5a038e093e36d0ef
 Section: Tweaks
-Description: Amazing Aweme Tweak!
+Description: An awesome tweak for Aweme!
 Author: SWING
 Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.aweme
 Icon: https://repo.abox.plus/api/packageinfo/com.swing.aweme/icon.png
-Name: AmazingAweme
+Name: Amazing Aweme
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
 
 Package: com.swing.nicegram
