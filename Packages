@@ -37,16 +37,16 @@ Name: Amazing Aweme
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.aweme.json
 
 Package: com.swing.nicegram
-Version: 1.0.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.nicegram_1.0.0_iphoneos-arm.deb
-Size: 5846
-MD5sum: b764b6489649beb323e91755a1d5b9ec
-SHA1: e477ce4d7993ec0c89b1e181d65706e557a442cb
-SHA256: 284b9e0f0e2017ce0541ff72d63e2f93840e8507885ddab218a071dea4478fdc
+Filename: debs/com.swing.nicegram_1.0.0-1_iphoneos-arm.deb
+Size: 7448
+MD5sum: a977c2b5d8d9cdfe096fbb24550002f5
+SHA1: 00eb15c8b80a130a3b07b9c3a42f5ac552d26569
+SHA256: 2fa4fdfd50633d41a22efbcae51aff48082242641b684515c37f83c494bb0cdf
 Section: Tweaks
 Description: An awesome tweak for Nicegram! TG：https://t.me/abox1993
 Author: SWING
@@ -56,16 +56,16 @@ Name: Nicegram Premium
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.nicegram.json
 
 Package: com.swing.nicegram
-Version: 1.0.0
+Version: 1.0.0-1
 Architecture: iphoneos-arm64
 Maintainer: SWING
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.swing.nicegram_1.0.0_iphoneos-arm64.deb
-Size: 5484
-MD5sum: 65f7bf5ed402b7ed7707a919660d504a
-SHA1: 8d75214dedac888c213ed7d9e1d1b68eceaf464d
-SHA256: e535cbff2d90cc1a88feff9b802124c0cd4646598a57e34100c2018f6a4bfecd
+Filename: debs/com.swing.nicegram_1.0.0-1_iphoneos-arm64.deb
+Size: 7018
+MD5sum: 1a470aeeda3a2a234a635e31b19b8753
+SHA1: 04bbd750b2f3ce679e143d5ec921c31d320eaa42
+SHA256: 53925fceba895169a52c1a66b732fbd0e936a4c13102f11f664a04ab02439928
 Section: Tweaks
 Description: An awesome tweak for Nicegram! TG：https://t.me/abox1993
 Author: SWING
