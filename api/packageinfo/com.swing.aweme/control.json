@@ -1,1 +1,1 @@
-{ "Package": "com.swing.aweme", "Name": "Amazing Aweme", "Version": "1.0.6-1", "Architecture": "iphoneos-arm", "Description": "An awesome tweak for Aweme!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }
+{ "Package": "com.swing.aweme", "Name": "Amazing Aweme", "Version": "1.0.6-1", "Architecture": "iphoneos-arm64", "Description": "An awesome tweak for Aweme!", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

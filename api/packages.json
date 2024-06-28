@@ -1,5 +1,6 @@
 {
   "package_ids": [
+    "com.swing.ticktask",
     "com.swing.aweme",
     "com.swing.termius",
     "com.swing.nicegram",

@@ -150,6 +150,44 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.termius/icon.png
 Name: Termius Pro
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.termius.json
 
+Package: com.swing.ticktask
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.ticktask_1.0.0_iphoneos-arm64.deb
+Size: 5430
+MD5sum: c34b6fcbc893f9c10b45ac71d1a0ddc8
+SHA1: b492293bd4524b94fac9530a3e6ab04724333930
+SHA256: a3233bc2df5ff9568f962c7feae1ade1be628382a6083451625b6afb9a3f1cf3
+Section: Tweaks
+Description: An awesome ticktick tweak!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.ticktask
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.ticktask/icon.png
+Name: TickTask Pro
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.ticktask.json
+
+Package: com.swing.ticktask
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.ticktask_1.0.0_iphoneos-arm.deb
+Size: 5862
+MD5sum: 08c459f38e8d21fb3edac2c7a4917a49
+SHA1: baf318b278015c3642a8a0817efb38012b787834
+SHA256: 692524c2a43d4628fbf9b8b6a82be2703ace7e720e7e373bc21ecbead880c48a
+Section: Tweaks
+Description: An awesome ticktick tweak!
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.ticktask
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.ticktask/icon.png
+Name: TickTask Pro
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.ticktask.json
+
 Package: com.swing.tiktoknocreatbutton
 Version: 1.0.0
 Architecture: iphoneos-arm
