@@ -1,0 +1,1 @@
+{ "Package": "com.swing.vipcrack", "Name": "VipCrack", "Version": "1.0.4", "Architecture": "iphoneos-arm", "Description": "克拉壁纸/每日壁纸/最美壁纸/一木记账/熊掌记/云听/彩云天气/CPUX/最美壁纸/Fing(v12.4.3)", "Maintainer": "SWING", "Author": "SWING", "Section": "Tweaks", "Depends": "mobilesubstrate (>= 0.9.5000)" }

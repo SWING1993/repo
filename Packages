@@ -226,3 +226,41 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.tiktoknocreatbutton/icon.
 Name: TikTokNoCreatButton
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.tiktoknocreatbutton.json
 
+Package: com.swing.vipcrack
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.vipcrack_1.0.4_iphoneos-arm64.deb
+Size: 15624
+MD5sum: d1a5380efe0b78182acdb89415efa34d
+SHA1: 71d4a2de16aedfb07223819678fe2eec131e768e
+SHA256: 884eaa28ec640fe7485421b23cf70c635b9f466dcb0556eb117ca16f5c56dad3
+Section: Tweaks
+Description: 克拉壁纸/每日壁纸/最美壁纸/一木记账/熊掌记/云听/彩云天气/CPUX/最美壁纸/Fing(v12.4.3)
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.vipcrack
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.vipcrack/icon.png
+Name: VipCrack
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.vipcrack.json
+
+Package: com.swing.vipcrack
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: SWING
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.swing.vipcrack_1.0.4_iphoneos-arm.deb
+Size: 16108
+MD5sum: 4ab44c3a51f9c90513bf0bfde4444043
+SHA1: 859fbbb5c43158a34d7b06b52412fac49377e1f3
+SHA256: 24e486bacd685f8912239638532c756ff58fccdb39a358dce9a29e009a511317
+Section: Tweaks
+Description: 克拉壁纸/每日壁纸/最美壁纸/一木记账/熊掌记/云听/彩云天气/CPUX/最美壁纸/Fing(v12.4.3)
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.vipcrack
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.vipcrack/icon.png
+Name: VipCrack
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.vipcrack.json
+
